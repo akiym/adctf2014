@@ -32,3 +32,5 @@ http://adctf2014.katsudon.org/
 
 http://adctf2014.katsudon.org/dat/solve-counts.txt
 http://adctf2014.katsudon.org/dat/team-solves.txt
+
+full writeup by ytoku: https://wiki.mma.club.uec.ac.jp/ytoku/CTF/Writeup/AdventCalendarCTF2014
