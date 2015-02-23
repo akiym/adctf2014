@@ -1,0 +1,5 @@
+CREATE TABLE otp (
+    nCNJACKtOMWOu1qv_token  CHAR(16) NOT NULL PRIMARY KEY,
+    cff5z0UmR7NuDvG8_pass   CHAR(32) NOT NULL,
+    PP2EJb2xjx6QaryW_expire INT UNSIGNED NOT NULL
+);
